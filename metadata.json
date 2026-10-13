@@ -1,0 +1,6 @@
+{
+  "name": "Servicely — Premium On-Demand Services",
+  "description": "Discover, schedule, and book verified professionals across home maintenance, creative craft, wellness, automotive care, and business services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
